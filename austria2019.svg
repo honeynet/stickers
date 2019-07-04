@@ -1,0 +1,54 @@
+<svg 
+  xmlns="http://www.w3.org/2000/svg" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="300" height="340"
+  viewBox="0 0 300 340"
+  >
+
+  <defs>
+    <polygon id="hexagon" points="
+    130,-75,0,-150
+    0,-150,-130,-75
+    -130,-75,-130,75
+    -130,75,0,150
+    0,150,130,75
+    130,75,130,-75
+    " transform="translate(150,170)"/>
+    <g id="honeycomb">
+      <!-- http://www.mathopenref.com/coordpolycalc.html, 0, 0, 6, 20, 30 -->
+      <polygon points="
+        17,-10,0,-20
+        0,-20,-17,-10
+        -17,-10,-17,10
+        -17,10,0,20
+        0,20,17,10
+        17,10,17,-10
+        " fill="#FFCC44" />
+    </g>
+    <g id="logo">
+      <use xlink:href="#honeycomb" transform="translate(0,0)" />
+      <use xlink:href="#honeycomb" transform="translate(36,0)" />
+      <use xlink:href="#honeycomb" transform="translate(-36,0)" />
+      <use xlink:href="#honeycomb" transform="translate(18,32)" />
+      <use xlink:href="#honeycomb" transform="translate(-18,32)" />
+      <use xlink:href="#honeycomb" transform="translate(18,-32)" />
+      <use xlink:href="#honeycomb" transform="translate(-18,-32)" />
+    </g>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="0" stdDeviation="7"/>
+    </filter>
+    <clipPath id="hexagonclip">
+      <use xlink:href="#hexagon" stroke="#FFCC44" stroke-width="15" stroke-linejoin="miter" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#hexagonclip)">
+    <image x="-205" y="-30" width="700" xlink:href="austria2019-bg.jpg" />
+  </g>
+
+  <use xlink:href="#hexagon" stroke="#FFCC44" stroke-width="15" stroke-linejoin="miter" fill-opacity="0" />
+
+  <use xlink:href="#logo" transform="translate(150,185) scale(0.75)" style="filter:url(#shadow)"/>
+
+  <text x="215" y="-25" font-family="Lato" font-weight="700" text-anchor="middle" font-size="20" fill="black" transform="rotate(30)">Innsbruck 2019</text>
+</svg>
