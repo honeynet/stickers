@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 340" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,150,170)">
+        <path d="M130,-75L0,-150L-130,-75L-130,75L0,150L130,75L130,-75Z" style="fill:rgb(26,26,26);fill-rule:nonzero;stroke:black;stroke-width:20px;"/>
+    </g>
+    <g id="honeycomb" transform="matrix(7.03971,0,0,6.96912,150.225,171.5)">
+        <path d="M17,-10L0,-20L-17,-10L-17,10L0,20L17,10L17,-10Z" style="fill-opacity:0;fill-rule:nonzero;"/>
+        <clipPath id="_clip1">
+            <path d="M17,-10L0,-20L-17,-10L-17,10L0,20L17,10L17,-10Z" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g id="honeycomb1" serif:id="honeycomb" transform="matrix(0.212707,0,0,0.212707,11.6519,-1.50337)">
+                <path d="M17,-10L0,-20L-17,-10L-17,10L0,20L17,10L17,-10Z" style="fill:rgb(226,0,116);fill-opacity:0.36;fill-rule:nonzero;stroke:rgb(226,0,116);stroke-width:0.34px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g id="honeycomb2" serif:id="honeycomb" transform="matrix(0.212707,0,0,0.212707,-11.6108,-1.50337)">
+                <path d="M17,-10L0,-20L-17,-10L-17,10L0,20L17,10L17,-10Z" style="fill:rgb(226,0,116);fill-opacity:0.18;fill-rule:nonzero;stroke:rgb(226,0,116);stroke-width:0.34px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g id="honeycomb3" serif:id="honeycomb" transform="matrix(0.212707,0,0,0.212707,3.89765,-1.50337)">
+                <path d="M17,-10L0,-20L-17,-10L-17,10L0,20L17,10L17,-10Z" style="fill-opacity:0;fill-rule:nonzero;stroke:rgb(226,0,116);stroke-width:0.34px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g id="honeycomb4" serif:id="honeycomb" transform="matrix(0.212707,0,0,0.212707,-3.8566,-1.50337)">
+                <path d="M17,-10L0,-20L-17,-10L-17,10L0,20L17,10L17,-10Z" style="fill-opacity:0;fill-rule:nonzero;stroke:rgb(226,0,116);stroke-width:0.34px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g id="honeycomb5" serif:id="honeycomb" transform="matrix(0.212707,0,0,0.212707,7.69565,-8.30812)">
+                <path d="M17,-10L0,-20L-17,-10L-17,10L0,20L17,10L17,-10Z" style="fill-opacity:0;fill-rule:nonzero;stroke:rgb(226,0,116);stroke-width:0.34px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g id="honeycomb6" serif:id="honeycomb" transform="matrix(0.212707,0,0,0.212707,-0.0585966,-8.30812)">
+                <path d="M17,-10L0,-20L-17,-10L-17,10L0,20L17,10L17,-10Z" style="fill:rgb(226,0,116);fill-opacity:0.27;fill-rule:nonzero;stroke:rgb(226,0,116);stroke-width:0.34px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g id="honeycomb7" serif:id="honeycomb" transform="matrix(0.212707,0,0,0.212707,-7.81284,-8.30812)">
+                <path d="M17,-10L0,-20L-17,-10L-17,10L0,20L17,10L17,-10Z" style="fill-opacity:0;fill-rule:nonzero;stroke:rgb(226,0,116);stroke-width:0.34px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g id="honeycomb8" serif:id="honeycomb" transform="matrix(0.212707,0,0,0.212707,-15.515,-8.30812)">
+                <path d="M17,-10L0,-20L-17,-10L-17,10L0,20L17,10L17,-10Z" style="fill-opacity:0;fill-rule:nonzero;stroke:rgb(226,0,116);stroke-width:0.34px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g id="honeycomb9" serif:id="honeycomb" transform="matrix(0.241405,0,0,0.241405,0.003198,14.5242)">
+                <path d="M17,-10L0,-20L-17,-10L-17,10L0,20L17,10L17,-10Z" style="fill-opacity:0;fill-rule:nonzero;stroke:rgb(226,0,116);stroke-width:0.3px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g id="honeycomb10" serif:id="honeycomb" transform="matrix(0.212707,0,0,0.212707,-4.01485,-15.1129)">
+                <path d="M17,-10L0,-20L-17,-10L-17,10L0,20L17,10L17,-10Z" style="fill-opacity:0;fill-rule:nonzero;stroke:rgb(226,0,116);stroke-width:0.34px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g id="honeycomb11" serif:id="honeycomb" transform="matrix(0.212707,0,0,0.212707,3.7394,-15.1129)">
+                <path d="M17,-10L0,-20L-17,-10L-17,10L0,20L17,10L17,-10Z" style="fill:rgb(226,0,116);fill-opacity:0.14;fill-rule:nonzero;stroke:rgb(226,0,116);stroke-width:0.34px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g id="honeycomb12" serif:id="honeycomb" transform="matrix(0.212707,0,0,0.212707,15.3876,-8.22534)">
+                <path d="M17,-10L0,-20L-17,-10L-17,10L0,20L17,10L17,-10Z" style="fill:rgb(226,0,116);fill-opacity:0.14;fill-rule:nonzero;stroke:rgb(226,0,116);stroke-width:0.34px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+        </g>
+        <path d="M17,-10L0,-20L-17,-10L-17,10L0,20L17,10L17,-10Z" style="fill:none;fill-rule:nonzero;stroke:rgb(226,0,116);stroke-width:0.29px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+    </g>
+    <g id="logo">
+    </g>
+    <g transform="matrix(4.95077,0,0,3.52126,148,235.026)">
+        <text x="-18.949px" y="0px" style="font-family:'TeleGroteskHeadline-Ultra', 'TeleGrotesk Headline Ultra';font-weight:800;font-size:17.271px;fill:white;">P<tspan x="-9.808px -0.658px 9.023px " y="0px 0px 0px ">EBA</tspan></text>
+    </g>
+</svg>
